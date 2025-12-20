@@ -1,3 +1,12 @@
+# High-Level Package Diagram – HBnB
+
+This diagram illustrates the high-level layered architecture of the HBnB application,
+showing how the Presentation, Business Logic, and Persistence layers interact using
+the Facade Pattern.
+
+## Architecture Overview
+
+```mermaid
 classDiagram
 direction LR
 
