@@ -89,5 +89,3 @@ This task models a system for managing **users, places, reviews, and amenities**
 | User 1 --- * Review | A user can write multiple reviews | Enables tracking of user activity and feedback |
 | Place 1 --- * Review | A place can have multiple reviews | Aggregates feedback for quality and ratings |
 | Place * --- * Amenity | Many-to-many; a place can have multiple amenities and an amenity can belong to multiple places | Flexible association of amenities to places without redundancy |
-
-
