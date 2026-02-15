@@ -1,5 +1,8 @@
 # HBnB Part 3
 
+## ER Digram 
+
+![WhatsApp Image 2026-02-15 at 4 43 01 PM](https://github.com/user-attachments/assets/25f36890-985e-4383-8240-4b0e65517548)
 
 
 ## Project Structure
